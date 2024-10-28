@@ -9,5 +9,8 @@ class InventoryServiceApplicationTests {
     @Test
     void contextLoads() {
     }
+    String myName(){
+        return "WEM";
+    }
 
 }
